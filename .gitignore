@@ -1,0 +1,6 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <opti

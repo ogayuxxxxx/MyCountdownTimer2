@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@android:color/holo_orange_dark</item>
+        <item name="colorPrimaryDark">@android:color/holo_red_light</item>
+        <item name="colorAccent">@android:color/holo_red_dark</item>
+        <item name="android:colorPrimary">@color/design_default_color_primary</item>
+        <item name="android:colorBackground">@android:color/holo_orange_light</item>
+    </style>
+
+    <style name="colorPrimary" parent="android:Theme.Material.Light.NoActionBar" >
+        <item name="android:colorPrimary">@color/primary_material_light_1</item>
+    </style>
+</resources>
